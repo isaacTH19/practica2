@@ -11,6 +11,6 @@ package com.mycompany.practica02;
 public class Practica02 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("PRUEBA GITHUB");
     }
 }
